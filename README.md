@@ -1,6 +1,6 @@
 # Awesome Bee [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of amazing projects and resources built with the (Bee.computer)[https://www.bee.computer/] PI
+A curated list of amazing projects and resources built with the [Bee.computer](https://www.bee.computer/)
 
 ## Contents
 
