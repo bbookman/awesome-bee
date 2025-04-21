@@ -1,6 +1,6 @@
 # Awesome Bee [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of amazing projects and resources built for the [Bee.computer](https://www.bee.computer/)
+A curated list of amazing projects and resources built for [Bee.computer](https://www.bee.computer/)
 
 ## Contents
 
@@ -16,6 +16,8 @@ A curated list of amazing projects and resources built for the [Bee.computer](ht
 
 ## Applications
 
+- [Bee Web UI](https://github.com/chartmann1590/bee-ai-web). Unofficial Bee Web UI
+
 ## CLI Tools
 
 ## Data Visualization
@@ -28,8 +30,8 @@ A curated list of amazing projects and resources built for the [Bee.computer](ht
 
 ## SDKs & Libraries
 
-- [https://developer.bee.computer/](Bee Rest API)
-- [https://developer.bee.computer/sdks](Bee SDKs)
+- [Bee Rest API](https://developer.bee.computer)
+- [Bee SDKs](ttps://developer.bee.computer/sdks)
 
 ## Learning Resources
 
