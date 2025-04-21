@@ -1,6 +1,6 @@
 # Awesome Bee [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of amazing projects and resources built with the [Bee.computer](https://www.bee.computer/)
+A curated list of amazing projects and resources built for the [Bee.computer](https://www.bee.computer/)
 
 ## Contents
 
@@ -27,6 +27,9 @@ A curated list of amazing projects and resources built with the [Bee.computer](h
 - [Bee MCP](https://github.com/OkGoDoIt/beemcp) - Unofficial Model Context Protocol (MCP) server for interacting with your Bee wearable lifelogging data
 
 ## SDKs & Libraries
+
+- [https://developer.bee.computer/](Bee Rest API)
+- [https://developer.bee.computer/sdks](Bee SDKs)
 
 ## Learning Resources
 
