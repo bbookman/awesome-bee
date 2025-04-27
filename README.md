@@ -17,6 +17,7 @@ A curated list of amazing projects and resources built for [Bee.computer](https:
 ## Applications
 
 - [Bee Web UI](https://github.com/chartmann1590/bee-ai-web). Unofficial Bee Web UI
+- [Bee to Markdown](https://github.com/bbookman/write_bee_to_md/releases/tag/release1_0_0). Gets your Bee data and writes it to markdown files
 
 ## CLI Tools
 
