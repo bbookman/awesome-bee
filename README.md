@@ -27,7 +27,7 @@ A curated list of amazing projects and resources built for [Bee.computer](https:
 ## Utilities
 
 - [Bee MCP](https://github.com/OkGoDoIt/beemcp) - Unofficial Model Context Protocol (MCP) server for interacting with your Bee wearable lifelogging data
-- [md_insert](https://github.com/joshuahannan/md_insert) - A command line tool for inserting markdown files into any markdown file, including what could come from Bee API
+- [md_insert](https://github.com/bbookman/md_inserts/releases/tag/release_1_0_0) - A command line tool for inserting markdown files into any markdown file, including what could come from Bee API
 
 ## SDKs & Libraries
 
